@@ -1,0 +1,4 @@
+import random
+Input:G=(n;2*n(n-1)),a graph
+Input:start,the starting vertex in G
+Output:visited,an array of size |V|
